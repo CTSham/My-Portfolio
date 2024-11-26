@@ -13,4 +13,4 @@ Features To Add
  * Blog: Use a blog section to showcase your thoughts on development, coding tips, or any tech-related topics.
  * GitHub/LinkedIn integration: Embed your GitHub repositories or add links to LinkedIn for further professional context.
  * Let me know if you'd like to add or modify any sections!
- */ 
+
