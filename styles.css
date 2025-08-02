@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap')
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Lato", sans-serif;
+  background-color: #f4f4f4;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Header */
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #007cf0;
+}
+
+nav a{
+  margin-left: 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+/* Hero Section */
+.hero{
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to right, #007cf0, #00dfd8);
+  color: white;
+}
+
+.hero h1{
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.hero p{
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.btn{
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: white;
+  color: #007cf0;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
