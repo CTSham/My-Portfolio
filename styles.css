@@ -307,10 +307,6 @@ footer {
   background-color: #242424;
 }
 
-.footer__logo {
-  margin-bottom: 20px;
-}
-
 .footer__social--list {
   width: 100%;
   max-width: 500px;
@@ -325,11 +321,6 @@ footer {
   align-items: center;
   justify-content: center;
   padding: 8% 0;
-}
-
-.footer__logo--img {
-  width: 70px;
-  height: 70px;
 }
 
 .footer__social--link,
